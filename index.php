@@ -1,4 +1,5 @@
 <?php
+$API_URL = 'https://api.line.me/v2/bot/message/reply';
     $accessToken = "O7kbgE + + rYGOlAa71m1h3JsLkWd1jNcgtYDFeq S7hUdZoS04o34wcftQYB / Z54CCeE8yYHe0NZXTvSMvjmQXxYwJLVXH0gIKND3rqwY6tePg6VKMz6tiRE8MNleenfGrZSpw0yYURiUZchHKRiPFUQdB04t89 / 1O / w1cDnyilFU =";//copy Channel access token ตอนที่ตั้งค่ามาใส่
     
     $content = file_get_contents('php://input');
